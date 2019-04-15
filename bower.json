@@ -1,5 +1,5 @@
 {
-  "name": "AngularJS",
+  "name": "angular",
   "main": "./build/angular.min.js",
   "version": "1.3.20",
   "ignore": [],
